@@ -12,4 +12,4 @@ console.log(__filename);
 
 setInterval(() => {
   console.log("hello world");
-}, 2000); // it runs the code block present inside it after every 2000 ms
+}, 2000); // the setInterval() function runs the code block present inside it after every 2000 ms
