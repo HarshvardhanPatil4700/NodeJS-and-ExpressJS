@@ -8,4 +8,4 @@ const peter = "peter";
 
 // console.log(module); Check the Exports section of the module
 
-module.exports = { john, peter }; // to export the object or variables
+module.exports = { john, peter }; // to export the object and variables

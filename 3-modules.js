@@ -1,6 +1,6 @@
 // Modules : reusable blocks of code that help organize, manage, and separate functionality within an application (Encapsulated code (only share minimum)). NodeJS uses CommonJS in which every file is a module (by default)
 
-const names = require("./4-names");
+const names = require("./4-names"); // require hives the access to exported data
 const sayHi = require("./5-utils");
 const data = require("./6-alternativeSyntax");
 console.log(data); // this is another way we can make the exported data available

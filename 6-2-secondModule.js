@@ -1,4 +1,5 @@
 const evenOddCheck = (num) => {
+  // even odd check logic
   if (num % 2 === 0) {
     console.log(`${num} is an Even Number`);
   } else {
